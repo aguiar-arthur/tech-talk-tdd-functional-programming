@@ -1,0 +1,7 @@
+#+TITLE: TDD in Functional Programming vs OOP
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* TDD in Functional Programming vs OOP
+
+Different paradigms, same benefits - but different approaches

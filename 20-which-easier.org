@@ -1,0 +1,18 @@
+#+TITLE: Which is Easier for TDD?
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* Which is Easier for TDD?
+
+** Functional Programming wins because:
+
+- *Pure functions* are naturally testable
+- *No hidden state* to worry about
+- *Predictable outputs* for same inputs
+- *Easy to reason about* what to test
+
+** But OOP can be TDD-friendly when:
+
+- Objects have *clear responsibilities*
+- *Dependencies are injected*
+- *Methods are focused* on single behaviors

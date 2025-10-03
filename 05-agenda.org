@@ -1,0 +1,10 @@
+#+TITLE: What We'll Cover Today
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* Here's What We'll Cover Today
+
+- *When and what to test* (for the "don't know what" crowd)
+- *Making tests maintainable* (for the maintenance strugglers)  
+- *Why TDD actually speeds you up* (for the "slows me down" folks)
+- *Designing testable code* (for the "hard to test" group)

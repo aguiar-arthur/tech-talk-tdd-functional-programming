@@ -1,0 +1,12 @@
+#+TITLE: TDD in Object-Oriented Programming
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* TDD in Object-Oriented Programming
+
+** What you typically test:
+
+- *Behavior of objects* - what they do, not how
+- *Interactions between objects* - collaborations
+- *State changes* - before/after object state
+- *Interface contracts* - public methods

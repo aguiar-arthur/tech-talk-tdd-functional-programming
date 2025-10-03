@@ -1,0 +1,27 @@
+#+TITLE: TDD vs Unit Tests Benefits
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* Those Benefits aren't TDD benefits
+
+I get this response from AI when I asked about TDD:
+
+#+BEGIN_QUOTE
+"This not only helps in catching errors early but also creates a safety net for future changes.
+ Refactoring becomes less risky because your tests will alert you if you accidentally break something."
+#+END_QUOTE
+
+** Everything here is UNIT TEST benefits, we do that.
+
+*** Again, why does it matter?
+
+TDD is all about reducing complexity and improving efficiency over time.
+
+**** Since we never publish a PR without tests, why would we leave testing until the very end?
+Whenever we postpone testing, we often have to refactor the code to make it testable.
+This doesn't slow down the entire development process, but it does create bottlenecks right at the finish line.
+
+By integrating testing throughout the development process, we can ensure a smoother, more effective delivery and avoid the last-minute rush.
+
+**** A very coach analogy
+*Just like in a race, we don't burn all our energy at the start, we maintain a steady, consistent pace to reach the finish line.*

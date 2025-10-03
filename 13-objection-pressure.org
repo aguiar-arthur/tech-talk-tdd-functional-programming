@@ -1,0 +1,30 @@
+#+TITLE: TDD Under Pressure
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* "We don't have time for TDD under pressure"
+
+*The myth:* TDD is a luxury for when you have extra time.
+
+*The reality:* Pressure is exactly when you need TDD most.
+When deadlines are tight, you can't afford to waste time on bugs,
+rework, or code that doesn't actually solve the problem.
+
+** Under pressure, you need:
+- Confidence that your code works
+- Ability to refactor quickly without breaking things
+- Clear understanding of what you're building
+- Protection against introducing bugs while rushing
+
+* "Our legacy codebase is too complex for TDD"
+
+*The myth:* TDD only works for greenfield projects.
+
+*The reality:* Legacy code is where TDD provides the most value!
+But you don't need to test everything at once.
+
+** Incremental approach:
+- Write tests for new features using TDD
+- Add tests when fixing bugs (to prevent regression)
+- Extract and test small pieces when refactoring
+- Focus on critical business logic first

@@ -1,0 +1,11 @@
+#+TITLE: This Applies to Coding
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* This applies to coding
+
+There's no need to rush through the implementation in just two days when we have a seven-day timeline,
+especially if we want to include proper tests and good decoupling.
+
+*By pacing ourselves and focusing on quality throughout the process,
+we set ourselves up for a more successful and maintainable outcome.*

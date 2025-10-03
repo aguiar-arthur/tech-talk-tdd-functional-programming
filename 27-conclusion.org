@@ -1,0 +1,10 @@
+#+TITLE: Thank You!
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* Thank You!
+
+** Questions & Discussion
+
+- *What's your biggest remaining concern about TDD?*
+- *What would help you get started with your team?*

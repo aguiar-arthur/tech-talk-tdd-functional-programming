@@ -1,0 +1,16 @@
+#+TITLE: Resources to Continue Learning
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* Resources to Continue Learning
+
+** Essential reading:
+
+- *"Test Driven Development: By Example"* by Kent Beck
+- *"Growing Object-Oriented Software, Guided by Tests"* by Freeman & Pryce
+
+** Tools to get started:
+
+- Use your language's *built-in testing framework* first
+- *Don't overcomplicate* with fancy tools initially
+- Focus on *readable test names* that describe behavior

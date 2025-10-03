@@ -1,0 +1,19 @@
+#+TITLE: Quick Poll: Your TDD Experience
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* Quick Poll: Your TDD Experience
+
+** ‍️Raise your hand if...
+
+*** 1
+*You've heard of TDD before today*
+
+*** 2
+*You've actually tried TDD in a real project*
+
+*** 3
+*You currently use TDD regularly in your work*
+
+*** 4
+*You love writing tests*

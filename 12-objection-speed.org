@@ -1,0 +1,19 @@
+#+TITLE: TDD Slows Down Development
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* "TDD slows down development"
+
+*The myth:* Writing tests first takes longer than just coding the solution.
+
+*The reality:* TDD might slow down your typing speed, but it dramatically speeds up your thinking speed.
+
+When you write tests first, you're forced to clarify requirements,
+consider edge cases, and design clean interfaces before getting lost in implementation details.
+
+* "Writing tests first feels unnatural"
+
+*The myth:* You need to know the implementation to write meaningful tests.
+
+*The reality:* If you can't write a test without knowing the implementation,
+you probably don't understand the requirements clearly enough to implement it correctly.

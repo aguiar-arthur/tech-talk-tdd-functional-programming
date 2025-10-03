@@ -1,0 +1,14 @@
+#+TITLE: TDD for Neurodivergent Developers
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* Let's talk about mental health
+
+It's obvious that we will have bad days - days when we cannot focus or our brain is just not working properly.
+
+** Creating Milestones
+
+When we are lacking attention, we can use TDD as a tool to create milestones during the day. You don't
+need to remember what you wrote in a file.
+
+With that, you can even ask AI to recap based on your last commits.

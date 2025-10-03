@@ -1,0 +1,30 @@
+#+TITLE: How Do We Do TDD?
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* Finally, how do we do that
+
+** Giving TDD some properties 
+
+The idea to have properties, is good to define and categorize something.
+
+*** 1
+- *You should first write the tests*
+
+*** 2
+- *That's it!*
+
+** Development isn't only IMPLEMENTATION
+
+The name is Test Driven Development. *DEVELOPMENT* is broader than *IMPLEMENTATION*.
+So the action of writing tests to understand a context that doesn't have unit tests,
+or where there's a lack of them, is also TDD.
+
+** But and the rest? 
+
+- *Red, Green, or Yellow* - You don't need that. Why do you need to fail first something that you know will fail? 
+- *Baby steps* - You don't need that. Especially if you know the code structure and details.
+
+#+BEGIN_NOTES
+Simplify TDD to its essence - writing tests first. Don't get bogged down in rigid ceremony.
+#+END_NOTES

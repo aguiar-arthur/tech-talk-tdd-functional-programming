@@ -1,0 +1,15 @@
+#+TITLE: Fun fact from TDD
+#+AUTHOR: Arthur Aguiar
+#+DATE: [2024]
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+#+BEAMER_THEME: Madrid
+
+* TDD was a rediscovery
+
+** History part. 1
+There are some talks about the first programming women doing TDD when working on mainframe machines.
+Running an entire program in those days was slow and expensive.
+
+** History part. 2
+Kent Beck says that he read about the same technique in a punch card programming book.

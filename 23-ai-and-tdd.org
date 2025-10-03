@@ -1,0 +1,14 @@
+#+TITLE: TDD and AI
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* I've said the word AI, now I need to talk about AI
+
+Yes, you can use AI to do TDD. AI alone does not do good unit tests - it tends to be repetitive
+and the business logic is not highlighted.
+
+So do that same happy path you already do in manual programming: small steps proving to yourself you know the rules,
+and yelling at the machine to do proper naming.
+
+** A nice thing to do
+If you use any AI-first IDE, create a rule file with the TDD flow you want the machine to follow.

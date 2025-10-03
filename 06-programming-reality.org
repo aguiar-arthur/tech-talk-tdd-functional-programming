@@ -1,0 +1,21 @@
+#+TITLE: Programming Reality
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* Programming isn't engineering
+
+Our work patterns are defined by the team we're in. We don't have a council of developers
+ruling what we should do, based on laws of software implementation. 
+
+** hypothesis 1
+
+So, it's right to affirm that we do whatever we want with our implementation!
+(Don't forget that you can be fired)
+
+** hypothesis 2
+
+So, imagine that we have something where we can reproduce behaviors, glue them together,
+and if something is wrong, we can reshape that mass of behaviors and fix the errors. 
+Even better, this runs virtually in a web of machines around the globe.
+
+*We could call it, SOFTWARE!*

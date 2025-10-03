@@ -1,0 +1,13 @@
+#+TITLE: TDD for for mental health developers
+#+AUTHOR: Arthur Aguiar
+#+DATE: [2024]
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+#+BEAMER_THEME: Madrid
+
+* TDD for for mental health developers
+
+The idea here is to loose the requirements to do TDD.
+
+** How can we do that?
+*Removing the TDD practice from pedestal*

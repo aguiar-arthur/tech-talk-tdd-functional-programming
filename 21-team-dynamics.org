@@ -1,0 +1,15 @@
+#+TITLE: Working Together with TDD
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* Working Together with TDD
+
+TDD naturally enhances team collaboration in several ways.
+When pair programming, the navigator focuses on writing tests while thinking ahead about requirements
+and edge cases, while the driver implements the immediate solution. *(ping-pong)*
+
+** Key collaboration benefits:
+
+- *Pair programming:* Navigator writes tests, driver implements, roles switch naturally
+- *Code reviews:* Focus shifts from "Does it work?" to "Are requirements clear?"
+- *Onboarding:* Tests become living documentation for new team members

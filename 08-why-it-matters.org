@@ -1,0 +1,33 @@
+#+TITLE: Why Does It Matter?
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* Why does it matter?
+
+The most important bugs are caused by **miscommunication**. Even a small one can lead to a very wrong business rule.
+
+*But let's not dive into:*
+#+BEGIN_QUOTE
+"You should code for your colleague, or for your future self."
+#+END_QUOTE
+
+** You should do TDD to check if you really know what you are doing.
+Knowing about the business rules and knowing the implementation strategy
+are two different things. TDD will help us put boundaries on that. 
+
+By writing tests before implementation, you're forced to think about the expected outcomes and edge cases. 
+This isn't just about catching errors and creating a safety bubble, it's about clarifying exactly what your code should do and why.
+
+** Safety and confidence are consequence 
+
+If the requirements are unclear or misunderstood, your tests will fail, prompting early discussion and correction before those 
+misunderstandings become expensive in production. 
+
+#+BEGIN_NOTES
+Here we have bug bash sessions that are good moments to confirm requirements and catch misunderstandings.
+But every meeting has a price, having well-structured and easy-to-change code reduces the manual testing effort.
+#+END_NOTES
+
+#+BEGIN_NOTES
+TDD isn't primarily about safety - it's about clarity of thought and communication.
+#+END_NOTES

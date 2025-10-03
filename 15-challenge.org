@@ -1,0 +1,22 @@
+#+TITLE: Challenge: Tomorrow Do the Test First
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* Challenge: Tomorrow Do the Test First
+
+TDD takes time and practice to learn, so we can start as we start in a new language: *slowly!*
+
+** This Week's Challenge
+
+*Pick ONE simple feature you're building this week*
+
+1. Write the test first
+2. Watch it fail
+3. Make it pass
+4. Done!
+
+*Good candidates:*
+- Utility function
+- API endpoint  
+- Data validation
+- Business logic

@@ -1,0 +1,19 @@
+#+TITLE: Key Differences in Practice
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* Key Differences in Practice
+
+** OOP TDD:
+
+- Mock collaborating objects
+- Test object behavior
+- Setup/teardown object state
+- Focus on "what the object does"
+
+** Functional TDD:
+
+- Test pure functions easily
+- Mock side effects (IO functions)
+- No state setup needed
+- Focus on "what the function returns"

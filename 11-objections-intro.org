@@ -1,0 +1,7 @@
+#+TITLE: Addressing Common Objections
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* Addressing the Elephant in the Room: Common Objections
+
+When you mention TDD, you'll hear these objections.

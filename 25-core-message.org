@@ -1,0 +1,16 @@
+#+TITLE: The Core Message
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* The Core Message
+
+TDD isn't about testing - it's about *thinking before coding*.
+
+When you write tests first, you're forced to clarify what success looks like before you build anything.
+This simple shift transforms how you approach problems, reduces miscommunication bugs, and builds confidence in your code.
+
+** Remember:
+- *TDD = Test-Driven Development* - broader than just implementation
+- *Focus on behavior* - not implementation details
+
+*The goal isn't perfect TDD adoption overnight. It's building better software through clearer thinking.*

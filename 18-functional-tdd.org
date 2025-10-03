@@ -1,0 +1,12 @@
+#+TITLE: TDD in Functional Programming
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* TDD in Functional Programming
+
+** What you typically test:
+
+- *Pure function outputs* - given input, expect output
+- *Data transformations* - input → process → output
+- *Composition behavior* - how functions combine
+- *Side effects isolation* - IO, database, API calls

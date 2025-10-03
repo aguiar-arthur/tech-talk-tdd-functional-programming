@@ -1,0 +1,23 @@
+#+TITLE: Why So Much Work Pushing to Production?
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* Why we have too much work pushing code to production? 
+
+Since software is SOFT, why don't we just push code directly in production, 
+and fix the bugs on the fly? 
+
+** We already do that!
+
+It's obvious that there's a modern happy path to publish code.
+- Pair programming
+- Unit tests
+- Integration tests
+- Manual tests
+- Human code review
+- AI code review
+
+*** But there's a flow detail
+
+almost every step on that list is just applied *AFTER* you have done
+the implementation. 

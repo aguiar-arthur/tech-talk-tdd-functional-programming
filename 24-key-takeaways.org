@@ -1,0 +1,7 @@
+#+TITLE: Key Takeaways
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* Key Takeaways
+
+What we learned about TDD today and why it matters.

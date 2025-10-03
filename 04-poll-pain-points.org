@@ -1,0 +1,19 @@
+#+TITLE: Testing Pain Points Poll
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+
+* One More Poll: Your Testing Pain Points
+
+Let's put in the chat
+
+** What's your biggest testing challenge?
+
+*A) "I don't know what to test"*
+
+*B) "Tests are hard to maintain"*
+
+*C) "Testing slows me down"*
+
+*D) "My code is hard to test"*
+
+*E) "All of the above!"*
